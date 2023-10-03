@@ -1,0 +1,1 @@
+import subprocess;subprocess.run(["env","vedkpv=vxabcfteym","/challenge/embryoio_level25"])
